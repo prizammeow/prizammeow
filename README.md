@@ -1,12 +1,12 @@
 <h1 align="center">🌈✨ Hi, I'm Prizam Meow ✨🌈</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+colorful+GitHub+space!;Building+cute+and+creative+things+%F0%9F%90%BE;Always+learning+something+new+%F0%9F%9A%80" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+colorful+GitHub+space!;Building+cute+and+creative+things+%F0%9F%90%BE;Always+learning+something+new+%F0%9F%9A%80" alt="Typing intro" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vibe-Colorful%20%26%20Creative-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Vibe badge" />
-  <img src="https://img.shields.io/badge/Mood-Shiny%20and%20Bright-8a2be2?style=for-the-badge&logoColor=white" alt="Mood badge" />
+  <img src="https://img.shields.io/badge/Mood-Shiny%20and%20Bright-8a2be2?style=for-the-badge" alt="Mood badge" />
   <img src="https://img.shields.io/badge/Focus-Learn%20%2B%20Build-00c2ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus badge" />
 </p>
 
