@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vibe-Colorful%20%26%20Creative-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Vibe badge" />
-  <img src="https://img.shields.io/badge/Mood-Shiny%20and%20Bright-8a2be2?style=for-the-badge&logo=sparkles&logoColor=white" alt="Mood badge" />
+  <img src="https://img.shields.io/badge/Mood-Shiny%20and%20Bright-8a2be2?style=for-the-badge&logoColor=white" alt="Mood badge" />
   <img src="https://img.shields.io/badge/Focus-Learn%20%2B%20Build-00c2ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus badge" />
 </p>
 
