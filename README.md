@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/prizammeow/prizammeow/output/tulkun/tulkun.gif" width="640" alt="prizammeow's git-tulkun" />
+  </a>
+</p>
 <h1 align="center">Sup 👋, I'm Prizam</h1>
 <h3 align="center">A curious obssessed backend/devops student from Nepal grinding to become a real engineer ദ്ദി◝ ⩊ ◜.ᐟ </h3>
 
